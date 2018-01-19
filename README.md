@@ -1,8 +1,8 @@
 # Fine-Scale Prediction of People's Home Location using Social Media Footprints
 
-**Authors:** Hamdi Kavak, Daniele Vernon-Bido, and Jose Padilla
+_**Authors:** Hamdi Kavak, Daniele Vernon-Bido, and Jose Padilla_
 
-**Submitted:** SBP-BRIMS 2018 on January 11, 2018.
+_**Submitted:** SBP-BRIMS 2018 on January 11, 2018._
 
 ## Supplemental Information
 
