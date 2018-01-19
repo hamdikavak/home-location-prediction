@@ -6,6 +6,8 @@
 
 ## Supplemental Information
 
-### - Feature set
-* [Data](data/training_test_set_anonymized.csv) 
-* [Visualization](visualize features.ipynb)
+### Datasets
+* [Feature set data](data/training_test_set_anonymized.csv) 
+* [Scatter plot of features](visualize%20features.ipynb)
+* [Data descriptions for figures](supplemental.pdf)
+
