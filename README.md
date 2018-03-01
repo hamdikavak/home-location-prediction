@@ -4,6 +4,8 @@ _**Authors:** Hamdi Kavak, Daniele Vernon-Bido, and Jose Padilla_
 
 _**Submitted:** SBP-BRIMS 2018 on January 11, 2018._
 
+_**Accepted:** February 15, 2018._
+
 ## Supplemental Information
 
 ### Dataset-related
