@@ -11,7 +11,7 @@ _**Accepted:** February 15, 2018._
 ### Dataset-related
 * [Training data](data/training_test_set_anonymized.csv) 
 * [Scatter plot of features](visualize_features.ipynb)
-* [Data descriptions for figures](supplemental.pdf)
+* [Data descriptions for figures](revised_supplemental.pdf)
 
 ### Method-related
 * [DBSCAN 100-meter resolution test](dbscan_test.ipynb)
