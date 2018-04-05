@@ -6,6 +6,8 @@ _**Submitted:** SBP-BRIMS 2018 on January 11, 2018._
 
 _**Accepted:** February 15, 2018._
 
+_**Revised:** April 02, 2018._
+
 ## Supplemental Information
 
 ### Dataset-related
